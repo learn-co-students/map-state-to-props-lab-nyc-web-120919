@@ -27,7 +27,7 @@ reducer, `manageUsers`, to create a `store`. Use `Provider` from `react-redux`
 to wrap `<App />`, passing `store` as a prop to the `Provider`. This will give
 your components access to the store.
 
-#### Test by Dispatching an Action
+#### Test by Dispatching an Action 
 
 Run `npm start` and open up your browser's dev console. If everything is
 connected correctly in `index.js`, a form should appear in the browser.
